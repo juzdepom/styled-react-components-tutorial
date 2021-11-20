@@ -3,12 +3,14 @@ import Header from './components/Header';
 import { Container } from './components/styles/Container.styled';
 import GlobalStyles from './components/styles/Global';
 
+//these values will be able to be accessed by all the styled components, thanks to the <ThemeProvider> encircling the entire project
 const theme = {
   colors: {
     header: '#ebfbff',
     body: '#fff',
     footer: '#003333'
-  }
+  },
+  mobile: '768px'
 }
 
 function App() {
