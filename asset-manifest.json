@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/styled-react-components-tutorial/static/css/main.bfa22019.chunk.css",
+    "main.js": "/styled-react-components-tutorial/static/js/main.eeb7a778.chunk.js",
+    "main.js.map": "/styled-react-components-tutorial/static/js/main.eeb7a778.chunk.js.map",
+    "runtime-main.js": "/styled-react-components-tutorial/static/js/runtime-main.59d08667.js",
+    "runtime-main.js.map": "/styled-react-components-tutorial/static/js/runtime-main.59d08667.js.map",
+    "static/js/2.2d0f0ef6.chunk.js": "/styled-react-components-tutorial/static/js/2.2d0f0ef6.chunk.js",
+    "static/js/2.2d0f0ef6.chunk.js.map": "/styled-react-components-tutorial/static/js/2.2d0f0ef6.chunk.js.map",
+    "index.html": "/styled-react-components-tutorial/index.html",
+    "static/css/main.bfa22019.chunk.css.map": "/styled-react-components-tutorial/static/css/main.bfa22019.chunk.css.map",
+    "static/js/2.2d0f0ef6.chunk.js.LICENSE.txt": "/styled-react-components-tutorial/static/js/2.2d0f0ef6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d08667.js",
+    "static/js/2.2d0f0ef6.chunk.js",
+    "static/css/main.bfa22019.chunk.css",
+    "static/js/main.eeb7a778.chunk.js"
+  ]
+}
